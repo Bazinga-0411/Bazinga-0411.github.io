@@ -388,82 +388,82 @@
 &lt;/div>
 &lt;/div>
 &lt;div class="carousel">
-&lt;div class='slider-wrapper'>&lt;input id='slide-159724836-0'checked="checked"name='slides' type='radio'>&lt;input id='slide-159724836-1'name='slides' type='radio'>&lt;input id='slide-159724836-2'name='slides' type='radio'>&lt;input id='slide-159724836-3'name='slides' type='radio'>&lt;div class='slider-arrow-nav'>&lt;label class='nav-arrow prev' for='slide-159724836-0'>&lt;/label>&lt;label class='nav-arrow prev' for='slide-159724836-1'>&lt;/label>&lt;label class='nav-arrow prev' for='slide-159724836-2'>&lt;/label>&lt;label class='nav-arrow prev' for='slide-159724836-3'>&lt;/label>&lt;/div>
-&lt;div class='slider-arrow-nav'>&lt;label class='nav-arrow next' for='slide-159724836-0'>&lt;/label>&lt;label class='nav-arrow next' for='slide-159724836-1'>&lt;/label>&lt;label class='nav-arrow next' for='slide-159724836-2'>&lt;/label>&lt;label class='nav-arrow next' for='slide-159724836-3'>&lt;/label>&lt;/div>
-&lt;div class='slider-nav'>&lt;label class='nav-button' for='slide-159724836-0'>&lt;/label>&lt;label class='nav-button' for='slide-159724836-1'>&lt;/label>&lt;label class='nav-button' for='slide-159724836-2'>&lt;/label>&lt;label class='nav-button' for='slide-159724836-3'>&lt;/label>&lt;/div>
-&lt;div class='slider-content'>&lt;div class='slide slide-159724836-0'>
+&lt;div class='slider-wrapper'>&lt;input id='slide-845216973-0'checked="checked"name='slides' type='radio'>&lt;input id='slide-845216973-1'name='slides' type='radio'>&lt;input id='slide-845216973-2'name='slides' type='radio'>&lt;input id='slide-845216973-3'name='slides' type='radio'>&lt;div class='slider-arrow-nav'>&lt;label class='nav-arrow prev' for='slide-845216973-0'>&lt;/label>&lt;label class='nav-arrow prev' for='slide-845216973-1'>&lt;/label>&lt;label class='nav-arrow prev' for='slide-845216973-2'>&lt;/label>&lt;label class='nav-arrow prev' for='slide-845216973-3'>&lt;/label>&lt;/div>
+&lt;div class='slider-arrow-nav'>&lt;label class='nav-arrow next' for='slide-845216973-0'>&lt;/label>&lt;label class='nav-arrow next' for='slide-845216973-1'>&lt;/label>&lt;label class='nav-arrow next' for='slide-845216973-2'>&lt;/label>&lt;label class='nav-arrow next' for='slide-845216973-3'>&lt;/label>&lt;/div>
+&lt;div class='slider-nav'>&lt;label class='nav-button' for='slide-845216973-0'>&lt;/label>&lt;label class='nav-button' for='slide-845216973-1'>&lt;/label>&lt;label class='nav-button' for='slide-845216973-2'>&lt;/label>&lt;label class='nav-button' for='slide-845216973-3'>&lt;/label>&lt;/div>
+&lt;div class='slider-content'>&lt;div class='slide slide-845216973-0'>
 &lt;img src='https://unsplash.it/1920/1080/?random=1'>
 &lt;img src="https://unsplash.it/1920/1080/?random=1" alt="">
-&lt;/div>&lt;div class='slide slide-159724836-1'>
+&lt;/div>&lt;div class='slide slide-845216973-1'>
 &lt;img src='https://unsplash.it/1920/1080/?random=2'>
 &lt;img src="https://unsplash.it/1920/1080/?random=2" alt="">
-&lt;/div>&lt;div class='slide slide-159724836-2'>
+&lt;/div>&lt;div class='slide slide-845216973-2'>
 &lt;img src='https://unsplash.it/1920/1080/?random=3'>
 &lt;img src="https://unsplash.it/1920/1080/?random=3" alt="">
-&lt;/div>&lt;div class='slide slide-159724836-3'>
+&lt;/div>&lt;div class='slide slide-845216973-3'>
 &lt;img src='https://unsplash.it/1920/1080/?random=4'>
 &lt;img src="https://unsplash.it/1920/1080/?random=4" alt="">
 &lt;/div>&lt;/div>
 &lt;/div>
-&lt;style>#slide-159724836-0:checked ~ .slider-content .slide-159724836-0{
+&lt;style>#slide-845216973-0:checked ~ .slider-content .slide-845216973-0{
 opacity:1;
 }
-#slide-159724836-0:checked ~ .slider-nav .nav-button[for="slide-159724836-0"]{
+#slide-845216973-0:checked ~ .slider-nav .nav-button[for="slide-845216973-0"]{
 background: rgba(255,255,255,1);
 }
-#slide-159724836-0:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-159724836-0"] + .nav-arrow{
+#slide-845216973-0:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-845216973-0"] + .nav-arrow{
 z-index:4;
 }
-#slide-159724836-0:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-159724836-0"]:last-of-type{
+#slide-845216973-0:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-845216973-0"]:last-of-type{
 z-index:2;
 }
-#slide-159724836-0:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-159724836-0"],
-#slide-159724836-0:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-159724836-0"] ~ .nav-arrow.prev{
+#slide-845216973-0:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-845216973-0"],
+#slide-845216973-0:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-845216973-0"] ~ .nav-arrow.prev{
 z-index:2;
-}#slide-159724836-1:checked ~ .slider-content .slide-159724836-1{
+}#slide-845216973-1:checked ~ .slider-content .slide-845216973-1{
 opacity:1;
 }
-#slide-159724836-1:checked ~ .slider-nav .nav-button[for="slide-159724836-1"]{
+#slide-845216973-1:checked ~ .slider-nav .nav-button[for="slide-845216973-1"]{
 background: rgba(255,255,255,1);
 }
-#slide-159724836-1:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-159724836-1"] + .nav-arrow{
+#slide-845216973-1:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-845216973-1"] + .nav-arrow{
 z-index:4;
 }
-#slide-159724836-1:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-159724836-1"]:last-of-type{
+#slide-845216973-1:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-845216973-1"]:last-of-type{
 z-index:2;
 }
-#slide-159724836-1:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-159724836-1"],
-#slide-159724836-1:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-159724836-1"] ~ .nav-arrow.prev{
+#slide-845216973-1:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-845216973-1"],
+#slide-845216973-1:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-845216973-1"] ~ .nav-arrow.prev{
 z-index:2;
-}#slide-159724836-2:checked ~ .slider-content .slide-159724836-2{
+}#slide-845216973-2:checked ~ .slider-content .slide-845216973-2{
 opacity:1;
 }
-#slide-159724836-2:checked ~ .slider-nav .nav-button[for="slide-159724836-2"]{
+#slide-845216973-2:checked ~ .slider-nav .nav-button[for="slide-845216973-2"]{
 background: rgba(255,255,255,1);
 }
-#slide-159724836-2:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-159724836-2"] + .nav-arrow{
+#slide-845216973-2:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-845216973-2"] + .nav-arrow{
 z-index:4;
 }
-#slide-159724836-2:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-159724836-2"]:last-of-type{
+#slide-845216973-2:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-845216973-2"]:last-of-type{
 z-index:2;
 }
-#slide-159724836-2:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-159724836-2"],
-#slide-159724836-2:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-159724836-2"] ~ .nav-arrow.prev{
+#slide-845216973-2:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-845216973-2"],
+#slide-845216973-2:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-845216973-2"] ~ .nav-arrow.prev{
 z-index:2;
-}#slide-159724836-3:checked ~ .slider-content .slide-159724836-3{
+}#slide-845216973-3:checked ~ .slider-content .slide-845216973-3{
 opacity:1;
 }
-#slide-159724836-3:checked ~ .slider-nav .nav-button[for="slide-159724836-3"]{
+#slide-845216973-3:checked ~ .slider-nav .nav-button[for="slide-845216973-3"]{
 background: rgba(255,255,255,1);
 }
-#slide-159724836-3:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-159724836-3"] + .nav-arrow{
+#slide-845216973-3:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-845216973-3"] + .nav-arrow{
 z-index:4;
 }
-#slide-159724836-3:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-159724836-3"]:last-of-type{
+#slide-845216973-3:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-845216973-3"]:last-of-type{
 z-index:2;
 }
-#slide-159724836-3:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-159724836-3"],
-#slide-159724836-3:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-159724836-3"] ~ .nav-arrow.prev{
+#slide-845216973-3:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-845216973-3"],
+#slide-845216973-3:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-845216973-3"] ~ .nav-arrow.prev{
 z-index:2;
 }&lt;/style>
 &lt;/div></description></item><item><title/><link>https://Bazinga-0411.github.io/2019/02/16/.html/</link><pubDate>Sat, 16 Feb 2019 07:01:32 +0000</pubDate><guid>https://Bazinga-0411.github.io/2019/02/16/.html/</guid><description>&lt;p>Hugo 主题 Luna 已发布，欢迎使用！&lt;/p></description></item></channel></rss>
