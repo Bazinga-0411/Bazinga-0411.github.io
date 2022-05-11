@@ -1,0 +1,79 @@
+.quote {
+    @apply my-4;
+}
+
+.quote:not(.quote-center) {
+    &::before {
+        content: '“';
+        @apply text-6xl font-bold leading-none text-gray-300 dark:text-gray-400 absolute left-0;
+        font-family: system-ui;
+    }
+}
+
+.quote-center {
+    &::before, &::after {
+        @apply absolute text-gray-300 dark:text-gray-400 text-5xl font-bold leading-none;
+    }
+    &::before {
+        top: -0.1em;
+        left: 0;
+        content: '“';
+    }
+    &::after {
+        bottom: -0.5em;
+        right: 0;
+        content: '”';
+    }
+}
+
+.carousel {
+    @apply relative h-96 bg-gray-100 dark:bg-darkBgAccent rounded overflow-hidden;
+    .slider-wrapper {
+        @apply absolute left-0 top-0 w-full h-full overflow-hidden;
+        input{
+            @apply absolute -left-[9999px];
+        }
+        .slider-arrow-nav{
+            .nav-arrow {
+                @apply transition ease-in-out w-12 h-12 text-5xl text-white absolute top-1/2 transform -translate-y-1/2 cursor-pointer;
+                z-index: 2;
+                font-family: Eva-Icons;
+            }
+            .nav-arrow.next {
+                &::before {
+                    content: "\ea70"
+                }
+                @apply right-4;
+            }
+            .nav-arrow.prev {
+                &::before {
+                    content: "\ea6e"
+                }
+                @apply left-4;
+                z-index:3;
+            }
+            .nav-arrow.next:first-of-type {
+                z-index:3;
+            }
+        }
+        .slide {
+            @apply absolute top-0 left-0 w-full h-full opacity-0;
+            z-index: 1;
+            transition: 1000ms cubic-bezier(.68,-0.57,.33,1.67) opacity;
+            img{
+                @apply w-full h-full object-contain border-none m-0;
+                &:nth-child(2) {
+                    @apply w-full h-full object-cover left-0 top-0 absolute blur-lg transform scale-105;
+                    z-index: -1;
+                }
+            }
+        }
+        .slider-nav {
+            @apply absolute bottom-4 left-0 w-full text-center;
+            z-index: 3;
+            .nav-button {
+                @apply hover:bg-theme bg-white bg-opacity-50 hover:bg-opacity-100 rounded-full cursor-pointer inline-block w-3 h-3 mx-2;
+            }
+        }
+    }
+}

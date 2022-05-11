@@ -1,0 +1,4 @@
+[submodule "themes/hugo-theme-luna"]
+	branch = main
+	path = themes/hugo-theme-luna
+	url = https://github.com/Ice-Hazymoon/hugo-theme-luna

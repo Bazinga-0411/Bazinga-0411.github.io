@@ -1,0 +1,11 @@
+{{- $cdn := "" -}}
+{{- if and .Site.Params.publicPath (not .Site.IsServer) -}}{{- $cdn = .Site.Params.publicPath -}}{{- end -}}
+
+{{- $customScript := resources.Get .Site.Params.customScript.file | js.Build (dict "minify" hugo.IsProduction) -}}
+{{- if .Site.IsServer -}}
+    <script type="text/javascript" src="{{- $customScript.RelPermalink -}}" {{- if .Site.Params.customScript.pjax -}}data-swup-reload-script{{- end -}}></script>
+{{- else -}}
+    {{- $customScript = $customScript | fingerprint -}}
+    <script type="text/javascript" src="{{- print $cdn $customScript.RelPermalink -}}" integrity="{{ $customScript.Data.Integrity }}" {{- if .Site.Params.customScript.pjax -}}data-swup-reload-script{{- end -}}></script>
+{{- end -}}
+

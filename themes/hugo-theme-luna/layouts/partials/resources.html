@@ -1,0 +1,7 @@
+{{- $svg_files := slice "images/error.svg" "images/search.svg" "images/outload.svg" -}}
+{{- $theme := .Site.Params.themeColor -}}
+
+{{- range $path := $svg_files -}}
+    {{- $svg := (resources.Get $path).Content | string | replaceRE "{themeColor}" $theme | resources.FromString $path -}}
+    <span class="hidden" data-svg="{{- $svg.RelPermalink -}}"></span>
+{{- end -}}
