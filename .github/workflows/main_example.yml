@@ -4,7 +4,6 @@ on: [push]
 
 jobs:
     deploy:
-        if: ${{ false }} # Please delete this line
         env:
           HUGO_VERSION: ${{ github.sha }}
           TZ: Asia/Shanghai
