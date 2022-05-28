@@ -1,4 +1,6 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/"><channel><title>Bazinga-0411 的博客</title><atom:link href="%7balternate%20%7bRSS%20application/rss+xml%20%20index%20alternate%20%20false%20false%20true%20false%20false%200%7d%20/index.xml%20https://Bazinga-0411.github.io/index.xml%7d" rel="self" type="application/rss+xml"/><link>https://Bazinga-0411.github.io/</link><managingEditor>Bazinga-0411</managingEditor><description>A simple, performance-first, SEO-friendly Hugo theme</description><lastBuildDate>Mon, 02 May 2022 13:12:47 +0200</lastBuildDate><language>zh-cn</language><generator>Hugo -- gohugo.io</generator><item><title/><link>https://Bazinga-0411.github.io/2022/05/02/shortcodes.html/</link><pubDate>Mon, 02 May 2022 13:12:47 +0200</pubDate><guid>https://Bazinga-0411.github.io/2022/05/02/shortcodes.html/</guid><description>&lt;h1 class=" group " id="我的python第一次记录">我的python第一次记录&lt;a class="" href="#%e6%88%91%e7%9a%84python%e7%ac%ac%e4%b8%80%e6%ac%a1%e8%ae%b0%e5%bd%95">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h1></description></item><item><title>短代码（Shortcodes）</title><link>https://Bazinga-0411.github.io/2022/05/02/shortcodes.html/</link><pubDate>Mon, 02 May 2022 13:12:47 +0200</pubDate><guid>https://Bazinga-0411.github.io/2022/05/02/shortcodes.html/</guid><description>&lt;h2 class=" group " id="文字排版">文字排版&lt;a class="" href="#%e6%96%87%e5%ad%97%e6%8e%92%e7%89%88">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h2>&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/"><channel><title>Bazinga-0411 的博客</title><atom:link href="%7balternate%20%7bRSS%20application/rss+xml%20%20index%20alternate%20%20false%20false%20true%20false%20false%200%7d%20/index.xml%20https://Bazinga-0411.github.io/index.xml%7d" rel="self" type="application/rss+xml"/><link>https://Bazinga-0411.github.io/</link><managingEditor>Bazinga-0411</managingEditor><description>A simple, performance-first, SEO-friendly Hugo theme</description><lastBuildDate>Mon, 02 May 2022 13:12:47 +0200</lastBuildDate><language>zh-cn</language><generator>Hugo -- gohugo.io</generator><item><title/><link>https://Bazinga-0411.github.io/2022/05/02/first_python_learn.html/</link><pubDate>Mon, 02 May 2022 13:12:47 +0200</pubDate><guid>https://Bazinga-0411.github.io/2022/05/02/first_python_learn.html/</guid><description>&lt;h1 class=" group " id="我的python第一次记录">我的python第一次记录&lt;a class="" href="#%e6%88%91%e7%9a%84python%e7%ac%ac%e4%b8%80%e6%ac%a1%e8%ae%b0%e5%bd%95">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h1>&lt;p>
+&lt;img src="https://Bazinga-0411.github.io/first_python_learn.assets/image-20220512013208281.png"alt="image-20220512013208281"/>
+&lt;/p></description></item><item><title>短代码（Shortcodes）</title><link>https://Bazinga-0411.github.io/2022/05/02/shortcodes.html/</link><pubDate>Mon, 02 May 2022 13:12:47 +0200</pubDate><guid>https://Bazinga-0411.github.io/2022/05/02/shortcodes.html/</guid><description>&lt;h2 class=" group " id="文字排版">文字排版&lt;a class="" href="#%e6%96%87%e5%ad%97%e6%8e%92%e7%89%88">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h2>&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
 &lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
 &lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
@@ -49,7 +51,7 @@
 &lt;i class="eva eva-github mr-2">&lt;/i>
 &lt;a class=" before:hidden" href=https://github.com/Ice-Hazymoon/hugo-theme-luna target="_blank">Ice-Hazymoon/hugo-theme-luna&lt;/a>
 &lt;/div>
-&lt;div class=" leading-6 my-2">A simple, performance-first, SEO-friendly Hugo theme&lt;/div>
+&lt;div class=" leading-6 my-2">A simple, performance-first, SEO-friendly Hugo theme / 一个轻量，快速，SEO 友好的 Hugo 主题&lt;/div>
 &lt;div class=" flex items-center">
 &lt;div class=" inline-flex items-center mr-4">
 &lt;span class=" w-3 h-3 inline-block rounded-full mr-1" style="background-color: #f1e05a">&lt;/span>
@@ -57,11 +59,11 @@
 &lt;/div>
 &lt;div class=" inline-flex items-center mr-4">
 &lt;i class="eva eva-star mr-1 text-amber-400">&lt;/i>
-&lt;span>63&lt;/span>
+&lt;span>78&lt;/span>
 &lt;/div>
 &lt;div class=" inline-flex items-center">
 &lt;i class="eva eva-shuffle-2 mr-1 text-blue-500">&lt;/i>
-&lt;span>4&lt;/span>
+&lt;span>5&lt;/span>
 &lt;/div>
 &lt;/div>
 &lt;/div>
@@ -388,82 +390,82 @@
 &lt;/div>
 &lt;/div>
 &lt;div class="carousel">
-&lt;div class='slider-wrapper'>&lt;input id='slide-152974386-0'checked="checked"name='slides' type='radio'>&lt;input id='slide-152974386-1'name='slides' type='radio'>&lt;input id='slide-152974386-2'name='slides' type='radio'>&lt;input id='slide-152974386-3'name='slides' type='radio'>&lt;div class='slider-arrow-nav'>&lt;label class='nav-arrow prev' for='slide-152974386-0'>&lt;/label>&lt;label class='nav-arrow prev' for='slide-152974386-1'>&lt;/label>&lt;label class='nav-arrow prev' for='slide-152974386-2'>&lt;/label>&lt;label class='nav-arrow prev' for='slide-152974386-3'>&lt;/label>&lt;/div>
-&lt;div class='slider-arrow-nav'>&lt;label class='nav-arrow next' for='slide-152974386-0'>&lt;/label>&lt;label class='nav-arrow next' for='slide-152974386-1'>&lt;/label>&lt;label class='nav-arrow next' for='slide-152974386-2'>&lt;/label>&lt;label class='nav-arrow next' for='slide-152974386-3'>&lt;/label>&lt;/div>
-&lt;div class='slider-nav'>&lt;label class='nav-button' for='slide-152974386-0'>&lt;/label>&lt;label class='nav-button' for='slide-152974386-1'>&lt;/label>&lt;label class='nav-button' for='slide-152974386-2'>&lt;/label>&lt;label class='nav-button' for='slide-152974386-3'>&lt;/label>&lt;/div>
-&lt;div class='slider-content'>&lt;div class='slide slide-152974386-0'>
+&lt;div class='slider-wrapper'>&lt;input id='slide-683142975-0'checked="checked"name='slides' type='radio'>&lt;input id='slide-683142975-1'name='slides' type='radio'>&lt;input id='slide-683142975-2'name='slides' type='radio'>&lt;input id='slide-683142975-3'name='slides' type='radio'>&lt;div class='slider-arrow-nav'>&lt;label class='nav-arrow prev' for='slide-683142975-0'>&lt;/label>&lt;label class='nav-arrow prev' for='slide-683142975-1'>&lt;/label>&lt;label class='nav-arrow prev' for='slide-683142975-2'>&lt;/label>&lt;label class='nav-arrow prev' for='slide-683142975-3'>&lt;/label>&lt;/div>
+&lt;div class='slider-arrow-nav'>&lt;label class='nav-arrow next' for='slide-683142975-0'>&lt;/label>&lt;label class='nav-arrow next' for='slide-683142975-1'>&lt;/label>&lt;label class='nav-arrow next' for='slide-683142975-2'>&lt;/label>&lt;label class='nav-arrow next' for='slide-683142975-3'>&lt;/label>&lt;/div>
+&lt;div class='slider-nav'>&lt;label class='nav-button' for='slide-683142975-0'>&lt;/label>&lt;label class='nav-button' for='slide-683142975-1'>&lt;/label>&lt;label class='nav-button' for='slide-683142975-2'>&lt;/label>&lt;label class='nav-button' for='slide-683142975-3'>&lt;/label>&lt;/div>
+&lt;div class='slider-content'>&lt;div class='slide slide-683142975-0'>
 &lt;img src='https://unsplash.it/1920/1080/?random=1'>
 &lt;img src="https://unsplash.it/1920/1080/?random=1" alt="">
-&lt;/div>&lt;div class='slide slide-152974386-1'>
+&lt;/div>&lt;div class='slide slide-683142975-1'>
 &lt;img src='https://unsplash.it/1920/1080/?random=2'>
 &lt;img src="https://unsplash.it/1920/1080/?random=2" alt="">
-&lt;/div>&lt;div class='slide slide-152974386-2'>
+&lt;/div>&lt;div class='slide slide-683142975-2'>
 &lt;img src='https://unsplash.it/1920/1080/?random=3'>
 &lt;img src="https://unsplash.it/1920/1080/?random=3" alt="">
-&lt;/div>&lt;div class='slide slide-152974386-3'>
+&lt;/div>&lt;div class='slide slide-683142975-3'>
 &lt;img src='https://unsplash.it/1920/1080/?random=4'>
 &lt;img src="https://unsplash.it/1920/1080/?random=4" alt="">
 &lt;/div>&lt;/div>
 &lt;/div>
-&lt;style>#slide-152974386-0:checked ~ .slider-content .slide-152974386-0{
+&lt;style>#slide-683142975-0:checked ~ .slider-content .slide-683142975-0{
 opacity:1;
 }
-#slide-152974386-0:checked ~ .slider-nav .nav-button[for="slide-152974386-0"]{
+#slide-683142975-0:checked ~ .slider-nav .nav-button[for="slide-683142975-0"]{
 background: rgba(255,255,255,1);
 }
-#slide-152974386-0:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-152974386-0"] + .nav-arrow{
+#slide-683142975-0:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-683142975-0"] + .nav-arrow{
 z-index:4;
 }
-#slide-152974386-0:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-152974386-0"]:last-of-type{
+#slide-683142975-0:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-683142975-0"]:last-of-type{
 z-index:2;
 }
-#slide-152974386-0:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-152974386-0"],
-#slide-152974386-0:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-152974386-0"] ~ .nav-arrow.prev{
+#slide-683142975-0:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-683142975-0"],
+#slide-683142975-0:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-683142975-0"] ~ .nav-arrow.prev{
 z-index:2;
-}#slide-152974386-1:checked ~ .slider-content .slide-152974386-1{
+}#slide-683142975-1:checked ~ .slider-content .slide-683142975-1{
 opacity:1;
 }
-#slide-152974386-1:checked ~ .slider-nav .nav-button[for="slide-152974386-1"]{
+#slide-683142975-1:checked ~ .slider-nav .nav-button[for="slide-683142975-1"]{
 background: rgba(255,255,255,1);
 }
-#slide-152974386-1:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-152974386-1"] + .nav-arrow{
+#slide-683142975-1:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-683142975-1"] + .nav-arrow{
 z-index:4;
 }
-#slide-152974386-1:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-152974386-1"]:last-of-type{
+#slide-683142975-1:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-683142975-1"]:last-of-type{
 z-index:2;
 }
-#slide-152974386-1:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-152974386-1"],
-#slide-152974386-1:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-152974386-1"] ~ .nav-arrow.prev{
+#slide-683142975-1:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-683142975-1"],
+#slide-683142975-1:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-683142975-1"] ~ .nav-arrow.prev{
 z-index:2;
-}#slide-152974386-2:checked ~ .slider-content .slide-152974386-2{
+}#slide-683142975-2:checked ~ .slider-content .slide-683142975-2{
 opacity:1;
 }
-#slide-152974386-2:checked ~ .slider-nav .nav-button[for="slide-152974386-2"]{
+#slide-683142975-2:checked ~ .slider-nav .nav-button[for="slide-683142975-2"]{
 background: rgba(255,255,255,1);
 }
-#slide-152974386-2:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-152974386-2"] + .nav-arrow{
+#slide-683142975-2:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-683142975-2"] + .nav-arrow{
 z-index:4;
 }
-#slide-152974386-2:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-152974386-2"]:last-of-type{
+#slide-683142975-2:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-683142975-2"]:last-of-type{
 z-index:2;
 }
-#slide-152974386-2:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-152974386-2"],
-#slide-152974386-2:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-152974386-2"] ~ .nav-arrow.prev{
+#slide-683142975-2:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-683142975-2"],
+#slide-683142975-2:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-683142975-2"] ~ .nav-arrow.prev{
 z-index:2;
-}#slide-152974386-3:checked ~ .slider-content .slide-152974386-3{
+}#slide-683142975-3:checked ~ .slider-content .slide-683142975-3{
 opacity:1;
 }
-#slide-152974386-3:checked ~ .slider-nav .nav-button[for="slide-152974386-3"]{
+#slide-683142975-3:checked ~ .slider-nav .nav-button[for="slide-683142975-3"]{
 background: rgba(255,255,255,1);
 }
-#slide-152974386-3:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-152974386-3"] + .nav-arrow{
+#slide-683142975-3:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-683142975-3"] + .nav-arrow{
 z-index:4;
 }
-#slide-152974386-3:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-152974386-3"]:last-of-type{
+#slide-683142975-3:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-683142975-3"]:last-of-type{
 z-index:2;
 }
-#slide-152974386-3:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-152974386-3"],
-#slide-152974386-3:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-152974386-3"] ~ .nav-arrow.prev{
+#slide-683142975-3:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-683142975-3"],
+#slide-683142975-3:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-683142975-3"] ~ .nav-arrow.prev{
 z-index:2;
 }&lt;/style>
 &lt;/div></description></item><item><title/><link>https://Bazinga-0411.github.io/2019/02/16/.html/</link><pubDate>Sat, 16 Feb 2019 07:01:32 +0000</pubDate><guid>https://Bazinga-0411.github.io/2019/02/16/.html/</guid><description>&lt;p>Hugo 主题 Luna 已发布，欢迎使用！&lt;/p></description></item></channel></rss>
