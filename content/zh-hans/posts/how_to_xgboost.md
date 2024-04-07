@@ -1,10 +1,10 @@
 ---
 author: Bazinga-0411
-date: 2022-05-02T13:12:47+02:00
-slug: first_python_learn
+date: 2024-04-06T13:12:47+02:00
+slug: how_to_xgboost
 draft: false
 toc: false
-summary: 我的python第一次记录
+summary: 如何使用xgboost
 tags:
   - Shortcodes
   - Hugo
@@ -12,9 +12,8 @@ categories:
   - Luna
 ---
 
-# 我的python第一次记录
+# 如何使用xgboost
 
-![first_python_learn](first_python_learn.png)
 
 ## 翻转链表
 ```python
