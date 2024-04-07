@@ -15,7 +15,7 @@ categories:
 
 # 我的python第一次记录
 
-![first_python_learn](first_python_learn.png)
+![first_python_learn](/posts/first_python_learn.png)
 
 ## 翻转链表
 ```python
