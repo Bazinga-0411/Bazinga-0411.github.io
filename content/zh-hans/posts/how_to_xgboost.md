@@ -1,4 +1,5 @@
 ---
+title: "如何使用xgboost"
 author: Bazinga-0411
 date: 2024-04-06T13:12:47+02:00
 slug: how_to_xgboost

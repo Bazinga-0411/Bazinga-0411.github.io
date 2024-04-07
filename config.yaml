@@ -17,7 +17,7 @@ hasCJKLanguage: true
 # 每页显示文章数量
 # pagination size
 paginate: 10
-ignoreErrors = ["error-remote-getjson"]
+ignoreErrors : ["error-remote-getjson"]
 # 启用谷歌统计
 # google analytics tracking code
 # googleAnalytics: UA-98634098-1
@@ -262,7 +262,7 @@ params:
   # GitHub 页面设置
   # github page
   github:
-    id: "torvalds"
+    id: "Bazinga-0411"
     minStars: 5
 
   # Twitter 页面设置

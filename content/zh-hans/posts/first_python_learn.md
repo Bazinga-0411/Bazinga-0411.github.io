@@ -1,4 +1,5 @@
 ---
+title: "我的python第一次记录"
 author: Bazinga-0411
 date: 2022-05-02T13:12:47+02:00
 slug: first_python_learn
