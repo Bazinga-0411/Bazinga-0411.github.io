@@ -17,7 +17,7 @@ hasCJKLanguage: true
 # 每页显示文章数量
 # pagination size
 paginate: 10
-
+ignoreErrors = ["error-remote-getjson"]
 # 启用谷歌统计
 # google analytics tracking code
 # googleAnalytics: UA-98634098-1
@@ -148,7 +148,7 @@ languages:
     params:
       icon: "/images/flag/zh-cn.svg"
       twitter: 
-        rsshub: "https://rsshub.rssforever.com"
+        rsshub: "https://rsshub.app/"
         id: "Bazinga419"
         imageProcessing: true
       github:
@@ -268,7 +268,7 @@ params:
   # Twitter 页面设置
   # tweet page
   twitter:
-    rsshub: "https://rsshub.rssforever.com"
+    rsshub: "https://rsshub.app/"
     id: "Bazinga419"
     imageProcessing: true
 
