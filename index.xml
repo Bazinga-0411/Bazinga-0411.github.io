@@ -1,6 +1,42 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/"><channel><title>Bazinga-0411 的博客</title><atom:link href="%7balternate%20%7bRSS%20application/rss+xml%20%20index%20alternate%20%20false%20false%20true%20false%20false%200%7d%20/index.xml%20https://Bazinga-0411.github.io/index.xml%7d" rel="self" type="application/rss+xml"/><link>https://Bazinga-0411.github.io/</link><managingEditor>Bazinga-0411</managingEditor><description>A simple, performance-first, SEO-friendly Hugo theme</description><lastBuildDate>Mon, 02 May 2022 13:12:47 +0200</lastBuildDate><language>zh-cn</language><generator>Hugo -- gohugo.io</generator><item><title/><link>https://Bazinga-0411.github.io/2022/05/02/first_python_learn.html/</link><pubDate>Mon, 02 May 2022 13:12:47 +0200</pubDate><guid>https://Bazinga-0411.github.io/2022/05/02/first_python_learn.html/</guid><description>&lt;h1 class=" group " id="我的python第一次记录">我的python第一次记录&lt;a class="" href="#%e6%88%91%e7%9a%84python%e7%ac%ac%e4%b8%80%e6%ac%a1%e8%ae%b0%e5%bd%95">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h1>&lt;p>
-&lt;img src="https://Bazinga-0411.github.io/first_python_learn.assets/image-20220512013208281.png"alt="image-20220512013208281"/>
-&lt;/p></description></item><item><title>短代码（Shortcodes）</title><link>https://Bazinga-0411.github.io/2022/05/02/shortcodes.html/</link><pubDate>Mon, 02 May 2022 13:12:47 +0200</pubDate><guid>https://Bazinga-0411.github.io/2022/05/02/shortcodes.html/</guid><description>&lt;h2 class=" group " id="文字排版">文字排版&lt;a class="" href="#%e6%96%87%e5%ad%97%e6%8e%92%e7%89%88">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h2>&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/"><channel><title>Bazinga-0411 的博客</title><atom:link href="%7balternate%20%7bRSS%20application/rss+xml%20%20index%20alternate%20%20false%20false%20true%20false%20false%200%7d%20/index.xml%20https://Bazinga-0411.github.io/index.xml%7d" rel="self" type="application/rss+xml"/><link>https://Bazinga-0411.github.io/</link><managingEditor>Bazinga-0411</managingEditor><description>A simple, performance-first, SEO-friendly Hugo theme</description><lastBuildDate>Sat, 06 Apr 2024 13:12:47 +0200</lastBuildDate><language>zh-cn</language><generator>Hugo -- gohugo.io</generator><item><title>如何使用xgboost</title><link>https://Bazinga-0411.github.io/2024/04/06/how_to_xgboost.html/</link><pubDate>Sat, 06 Apr 2024 13:12:47 +0200</pubDate><guid>https://Bazinga-0411.github.io/2024/04/06/how_to_xgboost.html/</guid><description>&lt;h1 class=" group " id="如何使用xgboost">如何使用xgboost&lt;a class="" href="#%e5%a6%82%e4%bd%95%e4%bd%bf%e7%94%a8xgboost">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h1>&lt;h2 class=" group " id="翻转链表">翻转链表&lt;a class="" href="#%e7%bf%bb%e8%bd%ac%e9%93%be%e8%a1%a8">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h2>&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 2
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 3
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 4
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 5
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 6
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 7
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 8
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 9
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">10
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">11
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">12
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">13
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">14
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">15
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">16
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">class&lt;/span> &lt;span style="color:#50fa7b">ListNode&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#ff79c6">def&lt;/span> __init__(self, x):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> self&lt;span style="color:#ff79c6">.&lt;/span>val &lt;span style="color:#ff79c6">=&lt;/span> x
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> self&lt;span style="color:#ff79c6">.&lt;/span>next &lt;span style="color:#ff79c6">=&lt;/span> &lt;span style="color:#ff79c6">None&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">def&lt;/span> &lt;span style="color:#50fa7b">reverseList&lt;/span>(head: ListNode) &lt;span style="color:#ff79c6">-&amp;gt;&lt;/span> ListNode:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#ff79c6">if&lt;/span> &lt;span style="color:#ff79c6">not&lt;/span> head &lt;span style="color:#ff79c6">or&lt;/span> &lt;span style="color:#ff79c6">not&lt;/span> head&lt;span style="color:#ff79c6">.&lt;/span>next:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#ff79c6">return&lt;/span> head
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> pre &lt;span style="color:#ff79c6">=&lt;/span> &lt;span style="color:#ff79c6">None&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> cur &lt;span style="color:#ff79c6">=&lt;/span> head
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#ff79c6">while&lt;/span> cur:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> tmp &lt;span style="color:#ff79c6">=&lt;/span> cur&lt;span style="color:#ff79c6">.&lt;/span>next
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> cur&lt;span style="color:#ff79c6">.&lt;/span>next &lt;span style="color:#ff79c6">=&lt;/span> pre
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> pre &lt;span style="color:#ff79c6">=&lt;/span> cur
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> cur &lt;span style="color:#ff79c6">=&lt;/span> tmp
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#ff79c6">return&lt;/span> pre
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item><item><title>短代码（Shortcodes）</title><link>https://Bazinga-0411.github.io/2022/05/02/shortcodes.html/</link><pubDate>Mon, 02 May 2022 13:12:47 +0200</pubDate><guid>https://Bazinga-0411.github.io/2022/05/02/shortcodes.html/</guid><description>&lt;h2 class=" group " id="文字排版">文字排版&lt;a class="" href="#%e6%96%87%e5%ad%97%e6%8e%92%e7%89%88">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h2>&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
 &lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
 &lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
@@ -38,36 +74,98 @@
 &lt;span>JavaScript&lt;/span>
 &lt;/div>
 &lt;/div>
-&lt;h2 class=" group " id="github-自动获取">GitHub 自动获取&lt;a class="" href="#github-%e8%87%aa%e5%8a%a8%e8%8e%b7%e5%8f%96">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h2>&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;h2 class=" group " id="轮播图">轮播图&lt;a class="" href="#%e8%bd%ae%e6%92%ad%e5%9b%be">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h2>&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
 &lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">github-auto&lt;/span> &lt;span style="color:#50fa7b">name&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;Ice-Hazymoon/hugo-theme-luna&amp;#34;&lt;/span> &amp;gt;}}
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">carousel&lt;/span> &amp;#34;../&lt;span style="color:#50fa7b">links&lt;/span>/&lt;span style="color:#50fa7b">Resume_Qinyang&lt;/span> &lt;span style="color:#50fa7b">Huang&lt;/span>.&lt;span style="color:#50fa7b">pdf&lt;/span>&amp;#34; &amp;gt;}}
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;div class="github border dark:border-darkBorder p-4 rounded my-4">
-&lt;div class="flex items-center text-xl">
-&lt;i class="eva eva-github mr-2">&lt;/i>
-&lt;a class=" before:hidden" href=https://github.com/Ice-Hazymoon/hugo-theme-luna target="_blank">Ice-Hazymoon/hugo-theme-luna&lt;/a>
 &lt;/div>
-&lt;div class=" leading-6 my-2">A simple, performance-first, SEO-friendly Hugo theme / 一个轻量，快速，SEO 友好的 Hugo 主题&lt;/div>
-&lt;div class=" flex items-center">
-&lt;div class=" inline-flex items-center mr-4">
-&lt;span class=" w-3 h-3 inline-block rounded-full mr-1" style="background-color: #f1e05a">&lt;/span>
-&lt;span>JavaScript&lt;/span>
+&lt;div class="carousel">
+&lt;div class='slider-wrapper'>&lt;input id='slide-943625781-0'checked="checked"name='slides' type='radio'>&lt;input id='slide-943625781-1'name='slides' type='radio'>&lt;input id='slide-943625781-2'name='slides' type='radio'>&lt;input id='slide-943625781-3'name='slides' type='radio'>&lt;div class='slider-arrow-nav'>&lt;label class='nav-arrow prev' for='slide-943625781-0'>&lt;/label>&lt;label class='nav-arrow prev' for='slide-943625781-1'>&lt;/label>&lt;label class='nav-arrow prev' for='slide-943625781-2'>&lt;/label>&lt;label class='nav-arrow prev' for='slide-943625781-3'>&lt;/label>&lt;/div>
+&lt;div class='slider-arrow-nav'>&lt;label class='nav-arrow next' for='slide-943625781-0'>&lt;/label>&lt;label class='nav-arrow next' for='slide-943625781-1'>&lt;/label>&lt;label class='nav-arrow next' for='slide-943625781-2'>&lt;/label>&lt;label class='nav-arrow next' for='slide-943625781-3'>&lt;/label>&lt;/div>
+&lt;div class='slider-nav'>&lt;label class='nav-button' for='slide-943625781-0'>&lt;/label>&lt;label class='nav-button' for='slide-943625781-1'>&lt;/label>&lt;label class='nav-button' for='slide-943625781-2'>&lt;/label>&lt;label class='nav-button' for='slide-943625781-3'>&lt;/label>&lt;/div>
+&lt;div class='slider-content'>&lt;div class='slide slide-943625781-0'>
+&lt;img src='https://unsplash.it/1920/1080/?random=1'>
+&lt;img src="https://unsplash.it/1920/1080/?random=1" alt="">
+&lt;/div>&lt;div class='slide slide-943625781-1'>
+&lt;img src='https://unsplash.it/1920/1080/?random=2'>
+&lt;img src="https://unsplash.it/1920/1080/?random=2" alt="">
+&lt;/div>&lt;div class='slide slide-943625781-2'>
+&lt;img src='https://unsplash.it/1920/1080/?random=3'>
+&lt;img src="https://unsplash.it/1920/1080/?random=3" alt="">
+&lt;/div>&lt;div class='slide slide-943625781-3'>
+&lt;img src='https://unsplash.it/1920/1080/?random=4'>
+&lt;img src="https://unsplash.it/1920/1080/?random=4" alt="">
+&lt;/div>&lt;/div>
 &lt;/div>
-&lt;div class=" inline-flex items-center mr-4">
-&lt;i class="eva eva-star mr-1 text-amber-400">&lt;/i>
-&lt;span>78&lt;/span>
-&lt;/div>
-&lt;div class=" inline-flex items-center">
-&lt;i class="eva eva-shuffle-2 mr-1 text-blue-500">&lt;/i>
-&lt;span>5&lt;/span>
-&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;h2 class=" group " id="notice">Notice&lt;a class="" href="#notice">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h2>&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
+&lt;style>#slide-943625781-0:checked ~ .slider-content .slide-943625781-0{
+opacity:1;
+}
+#slide-943625781-0:checked ~ .slider-nav .nav-button[for="slide-943625781-0"]{
+background: rgba(255,255,255,1);
+}
+#slide-943625781-0:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-943625781-0"] + .nav-arrow{
+z-index:4;
+}
+#slide-943625781-0:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-943625781-0"]:last-of-type{
+z-index:2;
+}
+#slide-943625781-0:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-943625781-0"],
+#slide-943625781-0:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-943625781-0"] ~ .nav-arrow.prev{
+z-index:2;
+}#slide-943625781-1:checked ~ .slider-content .slide-943625781-1{
+opacity:1;
+}
+#slide-943625781-1:checked ~ .slider-nav .nav-button[for="slide-943625781-1"]{
+background: rgba(255,255,255,1);
+}
+#slide-943625781-1:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-943625781-1"] + .nav-arrow{
+z-index:4;
+}
+#slide-943625781-1:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-943625781-1"]:last-of-type{
+z-index:2;
+}
+#slide-943625781-1:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-943625781-1"],
+#slide-943625781-1:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-943625781-1"] ~ .nav-arrow.prev{
+z-index:2;
+}#slide-943625781-2:checked ~ .slider-content .slide-943625781-2{
+opacity:1;
+}
+#slide-943625781-2:checked ~ .slider-nav .nav-button[for="slide-943625781-2"]{
+background: rgba(255,255,255,1);
+}
+#slide-943625781-2:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-943625781-2"] + .nav-arrow{
+z-index:4;
+}
+#slide-943625781-2:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-943625781-2"]:last-of-type{
+z-index:2;
+}
+#slide-943625781-2:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-943625781-2"],
+#slide-943625781-2:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-943625781-2"] ~ .nav-arrow.prev{
+z-index:2;
+}#slide-943625781-3:checked ~ .slider-content .slide-943625781-3{
+opacity:1;
+}
+#slide-943625781-3:checked ~ .slider-nav .nav-button[for="slide-943625781-3"]{
+background: rgba(255,255,255,1);
+}
+#slide-943625781-3:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-943625781-3"] + .nav-arrow{
+z-index:4;
+}
+#slide-943625781-3:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-943625781-3"]:last-of-type{
+z-index:2;
+}
+#slide-943625781-3:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-943625781-3"],
+#slide-943625781-3:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-943625781-3"] ~ .nav-arrow.prev{
+z-index:2;
+}&lt;/style>
+&lt;/div></description></item><item><title>我的python第一次记录</title><link>https://Bazinga-0411.github.io/2022/05/02/first_python_learn.html/</link><pubDate>Mon, 02 May 2022 13:12:47 +0200</pubDate><guid>https://Bazinga-0411.github.io/2022/05/02/first_python_learn.html/</guid><description>&lt;h1 class=" group " id="我的python第一次记录">我的python第一次记录&lt;a class="" href="#%e6%88%91%e7%9a%84python%e7%ac%ac%e4%b8%80%e6%ac%a1%e8%ae%b0%e5%bd%95">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h1>&lt;p>
+&lt;img src="https://Bazinga-0411.github.io/first_python_learn.png"alt="first_python_learn"/>
+&lt;/p>
+&lt;h2 class=" group " id="翻转链表">翻转链表&lt;a class="" href="#%e7%bf%bb%e8%bd%ac%e9%93%be%e8%a1%a8">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h2>&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
 &lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
 &lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 1
 &lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f"> 2
@@ -84,388 +182,25 @@
 &lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">13
 &lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">14
 &lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">15
+&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">16
 &lt;/span>&lt;/code>&lt;/pre>&lt;/td>
 &lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">notice&lt;/span> &lt;span style="color:#50fa7b">warn&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; /&lt;span style="color:#ff79c6">notice&lt;/span> &amp;gt;}}
+&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">class&lt;/span> &lt;span style="color:#50fa7b">ListNode&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#ff79c6">def&lt;/span> __init__(self, x):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> self&lt;span style="color:#ff79c6">.&lt;/span>val &lt;span style="color:#ff79c6">=&lt;/span> x
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> self&lt;span style="color:#ff79c6">.&lt;/span>next &lt;span style="color:#ff79c6">=&lt;/span> &lt;span style="color:#ff79c6">None&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">notice&lt;/span> &lt;span style="color:#50fa7b">error&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; /&lt;span style="color:#ff79c6">notice&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">notice&lt;/span> &lt;span style="color:#50fa7b">info&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; /&lt;span style="color:#ff79c6">notice&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">notice&lt;/span> &lt;span style="color:#50fa7b">success&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; /&lt;span style="color:#ff79c6">notice&lt;/span> &amp;gt;}}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">def&lt;/span> &lt;span style="color:#50fa7b">reverseList&lt;/span>(head: ListNode) &lt;span style="color:#ff79c6">-&amp;gt;&lt;/span> ListNode:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#ff79c6">if&lt;/span> &lt;span style="color:#ff79c6">not&lt;/span> head &lt;span style="color:#ff79c6">or&lt;/span> &lt;span style="color:#ff79c6">not&lt;/span> head&lt;span style="color:#ff79c6">.&lt;/span>next:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#ff79c6">return&lt;/span> head
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> pre &lt;span style="color:#ff79c6">=&lt;/span> &lt;span style="color:#ff79c6">None&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> cur &lt;span style="color:#ff79c6">=&lt;/span> head
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#ff79c6">while&lt;/span> cur:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> tmp &lt;span style="color:#ff79c6">=&lt;/span> cur&lt;span style="color:#ff79c6">.&lt;/span>next
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> cur&lt;span style="color:#ff79c6">.&lt;/span>next &lt;span style="color:#ff79c6">=&lt;/span> pre
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> pre &lt;span style="color:#ff79c6">=&lt;/span> cur
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> cur &lt;span style="color:#ff79c6">=&lt;/span> tmp
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#ff79c6">return&lt;/span> pre
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>
-&lt;div class="border-yellow-400 border-green-400 border-red-400 border-blue-400 ">&lt;/div>
-&lt;div class="bg-yellow-400 bg-green-400 bg-red-400 bg-blue-400">&lt;/div>
-&lt;div class="text-yellow-400 text-green-400 text-red-400 text-blue-400">&lt;/div>
-&lt;div class="rounded border-l-4 border-yellow-400 bg-yellow-400 bg-opacity-10 dark:bg-darkBgAccent my-4 p-5 ml-0 flex items-start" >
-&lt;div class=" mr-2">
-&lt;i class="eva text-2xl text-yellow-400 eva-alert-circle-outline">&lt;/i>
-&lt;/div>&lt;p style="margin: 0;">十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。&lt;/p>&lt;/div>
-&lt;div class="border-yellow-400 border-green-400 border-red-400 border-blue-400 ">&lt;/div>
-&lt;div class="bg-yellow-400 bg-green-400 bg-red-400 bg-blue-400">&lt;/div>
-&lt;div class="text-yellow-400 text-green-400 text-red-400 text-blue-400">&lt;/div>
-&lt;div class="rounded border-l-4 border-red-400 bg-red-400 bg-opacity-10 dark:bg-darkBgAccent my-4 p-5 ml-0 flex items-start" >
-&lt;div class=" mr-2">
-&lt;i class="eva text-2xl text-red-400 eva-minus-circle-outline">&lt;/i>
-&lt;/div>&lt;p style="margin: 0;">十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。&lt;/p>&lt;/div>
-&lt;div class="border-yellow-400 border-green-400 border-red-400 border-blue-400 ">&lt;/div>
-&lt;div class="bg-yellow-400 bg-green-400 bg-red-400 bg-blue-400">&lt;/div>
-&lt;div class="text-yellow-400 text-green-400 text-red-400 text-blue-400">&lt;/div>
-&lt;div class="rounded border-l-4 border-blue-400 bg-blue-400 bg-opacity-10 dark:bg-darkBgAccent my-4 p-5 ml-0 flex items-start" >
-&lt;div class=" mr-2">
-&lt;i class="eva text-2xl text-blue-400 eva-question-mark-circle-outline">&lt;/i>
-&lt;/div>&lt;p style="margin: 0;">十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。&lt;/p>&lt;/div>
-&lt;div class="border-yellow-400 border-green-400 border-red-400 border-blue-400 ">&lt;/div>
-&lt;div class="bg-yellow-400 bg-green-400 bg-red-400 bg-blue-400">&lt;/div>
-&lt;div class="text-yellow-400 text-green-400 text-red-400 text-blue-400">&lt;/div>
-&lt;div class="rounded border-l-4 border-green-400 bg-green-400 bg-opacity-10 dark:bg-darkBgAccent my-4 p-5 ml-0 flex items-start" >
-&lt;div class=" mr-2">
-&lt;i class="eva text-2xl text-green-400 eva-checkmark-circle-2-outline">&lt;/i>
-&lt;/div>&lt;p style="margin: 0;">十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。&lt;/p>&lt;/div>
-&lt;h2 class=" group " id="引用">引用&lt;a class="" href="#%e5%bc%95%e7%94%a8">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h2>&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">quote&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; /&lt;span style="color:#ff79c6">quote&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;blockquote class="quote relative text-gray-500 dark:text-gray-400 pl-10">
-&lt;p>十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。&lt;/p>&lt;/blockquote>
-&lt;h2 class=" group " id="居中引用">居中引用&lt;a class="" href="#%e5%b1%85%e4%b8%ad%e5%bc%95%e7%94%a8">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h2>&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">8
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">quote-center&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>十里青山远，潮平路带沙
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>数声啼鸟怨年华
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>又是凄凉时候，在天涯
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>白露收残月，清风散晓霞
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>绿杨堤畔问荷花
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>记得年时沽酒，那人家
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; /&lt;span style="color:#ff79c6">quote-center&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;blockquote class="quote quote-center text-center rounded-none relative border-y border-gray-200 dark:border-darkBorder py-4">
-&lt;p>十里青山远，潮平路带沙&lt;br>
-数声啼鸟怨年华&lt;br>
-又是凄凉时候，在天涯&lt;br>
-白露收残月，清风散晓霞&lt;br>
-绿杨堤畔问荷花&lt;br>
-记得年时沽酒，那人家&lt;/p>&lt;/blockquote>
-&lt;h2 class=" group " id="标签">标签&lt;a class="" href="#%e6%a0%87%e7%ad%be">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h2>&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">8
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">9
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>这是一个 {{&amp;lt; &lt;span style="color:#ff79c6">tag&lt;/span> &lt;span style="color:#50fa7b">red&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">红色标签&lt;/span>&amp;#34; &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>这是一个 {{&amp;lt; &lt;span style="color:#ff79c6">tag&lt;/span> &lt;span style="color:#50fa7b">green&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">绿色标签&lt;/span>&amp;#34; &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>这是一个 {{&amp;lt; &lt;span style="color:#ff79c6">tag&lt;/span> &lt;span style="color:#50fa7b">blue&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">蓝色标签&lt;/span>&amp;#34; &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>这是一个 {{&amp;lt; &lt;span style="color:#ff79c6">tag&lt;/span> &lt;span style="color:#50fa7b">orange&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">橘色标签&lt;/span>&amp;#34; &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>这是一个 {{&amp;lt; &lt;span style="color:#ff79c6">tag-outlined&lt;/span> &lt;span style="color:#50fa7b">red&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">红色标签&lt;/span>&amp;#34; &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>这是一个 {{&amp;lt; &lt;span style="color:#ff79c6">tag-outlined&lt;/span> &lt;span style="color:#50fa7b">green&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">绿色标签&lt;/span>&amp;#34; &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>这是一个 {{&amp;lt; &lt;span style="color:#ff79c6">tag-outlined&lt;/span> &lt;span style="color:#50fa7b">blue&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">蓝色标签&lt;/span>&amp;#34; &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>这是一个 {{&amp;lt; &lt;span style="color:#ff79c6">tag-outlined&lt;/span> &lt;span style="color:#50fa7b">orange&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">橘色标签&lt;/span>&amp;#34; &amp;gt;}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>这是一个
-&lt;span class=" rounded py-1 px-2 text-sm text-white whitespace-nowrap bg-red-500">红色标签&lt;/span>&lt;br>
-这是一个
-&lt;span class=" rounded py-1 px-2 text-sm text-white whitespace-nowrap bg-green-500">绿色标签&lt;/span>&lt;br>
-这是一个
-&lt;span class=" rounded py-1 px-2 text-sm text-white whitespace-nowrap bg-blue-500">蓝色标签&lt;/span>&lt;br>
-这是一个
-&lt;span class=" rounded py-1 px-2 text-sm text-white whitespace-nowrap bg-orange-500">橘色标签&lt;/span>&lt;/p>
-&lt;p>这是一个 &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 whitespace-nowrap bg-red-500 text-red-500">红色标签&lt;/span>&lt;br>
-这是一个 &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 whitespace-nowrap bg-green-500 text-green-500">绿色标签&lt;/span>&lt;br>
-这是一个 &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 whitespace-nowrap bg-blue-500 text-blue-500">蓝色标签&lt;/span>&lt;br>
-这是一个 &lt;span class=" rounded py-1 px-2 text-sm bg-opacity-10 whitespace-nowrap bg-orange-500 text-orange-500">橘色标签&lt;/span>&lt;/p>
-&lt;h2 class=" group " id="进度条">进度条&lt;a class="" href="#%e8%bf%9b%e5%ba%a6%e6%9d%a1">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h2>&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">progress&lt;/span> &lt;span style="color:#50fa7b">80&lt;/span> &lt;span style="color:#50fa7b">green&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">进度条名称&lt;/span>&amp;#34; &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">progress&lt;/span> &lt;span style="color:#50fa7b">77&lt;/span>.&lt;span style="color:#50fa7b">54&lt;/span> &lt;span style="color:#50fa7b">red&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">进度条名称&lt;/span>&amp;#34; &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">progress&lt;/span> &lt;span style="color:#50fa7b">123&lt;/span>.&lt;span style="color:#50fa7b">45&lt;/span> &lt;span style="color:#50fa7b">blue&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">进度条名称&lt;/span>&amp;#34; &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">progress&lt;/span> &lt;span style="color:#50fa7b">11&lt;/span>.&lt;span style="color:#50fa7b">11&lt;/span> &lt;span style="color:#50fa7b">orange&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">进度条名称&lt;/span>&amp;#34; &amp;gt;}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>&lt;div class=" my-4">
-&lt;div class=" flex justify-between">
-&lt;div class="">进度条名称&lt;/div>
-&lt;div class="">80%&lt;/div>
-&lt;/div>
-&lt;div class=" w-full bg-gray-200 dark:bg-gray-300 rounded-full overflow-hidden relative">
-&lt;div class=" h-2 bg-green-400" style="width: 80%;">&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;div class=" my-4">
-&lt;div class=" flex justify-between">
-&lt;div class="">进度条名称&lt;/div>
-&lt;div class="">77.54%&lt;/div>
-&lt;/div>
-&lt;div class=" w-full bg-gray-200 dark:bg-gray-300 rounded-full overflow-hidden relative">
-&lt;div class=" h-2 bg-red-400" style="width: 77.54%;">&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;div class=" my-4">
-&lt;div class=" flex justify-between">
-&lt;div class="">进度条名称&lt;/div>
-&lt;div class="">123.45%&lt;/div>
-&lt;/div>
-&lt;div class=" w-full bg-gray-200 dark:bg-gray-300 rounded-full overflow-hidden relative">
-&lt;div class=" h-2 bg-blue-400" style="width: 123.45%;">&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;div class=" my-4">
-&lt;div class=" flex justify-between">
-&lt;div class="">进度条名称&lt;/div>
-&lt;div class="">11.11%&lt;/div>
-&lt;/div>
-&lt;div class=" w-full bg-gray-200 dark:bg-gray-300 rounded-full overflow-hidden relative">
-&lt;div class=" h-2 bg-orange-400" style="width: 11.11%;">&lt;/div>
-&lt;/div>
-&lt;/div>&lt;/p>
-&lt;h2 class=" group " id="折叠面板">折叠面板&lt;a class="" href="#%e6%8a%98%e5%8f%a0%e9%9d%a2%e6%9d%bf">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h2>&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">accordion&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">折叠面板&lt;/span>&amp;#34; &lt;span style="color:#50fa7b">open&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">*&lt;/span> Vegetables
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">*&lt;/span> Fruits
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">*&lt;/span> Fish
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; /&lt;span style="color:#ff79c6">accordion&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;details class="accordion border dark:border-darkBorder rounded" open>
-&lt;summary class="px-4 py-2 flex items-center font-bold before:text-gray-400 before:mr-0.5 before:-mt-0.5 before:text-xl">折叠面板&lt;/summary>
-&lt;div class=" px-4 py-2 border-t dark:border-darkBorder">&lt;ul>
-&lt;li>Vegetables&lt;/li>
-&lt;li>Fruits&lt;/li>
-&lt;li>Fish&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;/details>
-&lt;h2 class=" group " id="分割线">分割线&lt;a class="" href="#%e5%88%86%e5%89%b2%e7%ba%bf">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h2>&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">hr&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">分割线&lt;/span>&amp;#34; &amp;gt;}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;fieldset class="my-16 border-t border-gray-300 dark:border-darkBorder">
-&lt;legend class=" px-2 mx-auto my-0">分割线&lt;/legend>
-&lt;/fieldset>
-&lt;h2 class=" group " id="隐藏文字">隐藏文字&lt;a class="" href="#%e9%9a%90%e8%97%8f%e6%96%87%e5%ad%97">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h2>&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>这是一段 {{&amp;lt; &lt;span style="color:#ff79c6">hidden-text&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">隐藏文字&lt;/span>&amp;#34; &lt;span style="color:#50fa7b">blur&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>这是一段 {{&amp;lt; &lt;span style="color:#ff79c6">hidden-text&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">隐藏文字&lt;/span>&amp;#34; &amp;gt;}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>这是一段 &lt;span class=" inline-block transition ease-in-out filter blur-sm hover:filter-none">隐藏文字&lt;/span>&lt;/p>
-&lt;p>这是一段 &lt;span class=" relative inline-block leading-none after:block after:bg-darkBg dark:after:bg-darkText after:z-50 after:transition after:ease-in-out hover:after:bg-transparent dark:hover:after:bg-transparent after:absolute after:left-0 after:top-0 after:w-full after:h-full after:rounded after:pointer-events-none">隐藏文字&lt;/span>&lt;/p>
-&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">8
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">9
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">hidden&lt;/span> &lt;span style="color:#50fa7b">blur&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">&amp;gt; &lt;/span>&lt;span style="text-decoration:underline">这是一个隐藏块
-&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="text-decoration:underline">&lt;/span>{{&amp;lt; /&lt;span style="color:#ff79c6">hidden&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">hidden&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">*&lt;/span> Vegetables
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">*&lt;/span> Fruits
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ff79c6">*&lt;/span> Fish
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; /&lt;span style="color:#ff79c6">hidden&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;div class=" transition ease-in-out filter blur-sm hover:filter-none ">
-&lt;blockquote>
-&lt;p>这是一个隐藏块&lt;/p>
-&lt;/blockquote>
-&lt;/div>
-&lt;div class=" relative after:block after:bg-darkBg dark:after:bg-darkText after:z-50 after:transition after:ease-in-out hover:after:bg-transparent dark:hover:after:bg-transparent after:absolute after:left-0 after:top-0 after:w-full after:h-full after:rounded after:pointer-events-none">
-&lt;ul>
-&lt;li>Vegetables&lt;/li>
-&lt;li>Fruits&lt;/li>
-&lt;li>Fish&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;h2 class=" group " id="评分">评分&lt;a class="" href="#%e8%af%84%e5%88%86">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h2>&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>我对海鲜饭的评价 {{&amp;lt; &lt;span style="color:#ff79c6">rating&lt;/span> &lt;span style="color:#50fa7b">10&lt;/span> &lt;span style="color:#50fa7b">6&lt;/span>&amp;gt;}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;p>我对海鲜饭的评价 &lt;span class=" inline-flex align-sub ml-1">&lt;i class="eva eva-star text-theme mr-1">&lt;/i>&lt;i class="eva eva-star text-theme mr-1">&lt;/i>&lt;i class="eva eva-star text-theme mr-1">&lt;/i>&lt;i class="eva eva-star text-theme mr-1">&lt;/i>&lt;i class="eva eva-star text-theme mr-1">&lt;/i>&lt;i class="eva eva-star text-theme mr-1">&lt;/i>&lt;i class="eva eva-star-outline text-gray-400 mr-1">&lt;/i>&lt;i class="eva eva-star-outline text-gray-400 mr-1">&lt;/i>&lt;i class="eva eva-star-outline text-gray-400 mr-1">&lt;/i>&lt;i class="eva eva-star-outline text-gray-400 mr-1">&lt;/i>&lt;/span>&lt;/p>
-&lt;h2 class=" group " id="卡片链接">卡片链接&lt;a class="" href="#%e5%8d%a1%e7%89%87%e9%93%be%e6%8e%a5">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h2>&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2
-&lt;/span>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">link-card&lt;/span> &lt;span style="color:#50fa7b">name&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;hugo-theme-luna&amp;#34;&lt;/span> &lt;span style="color:#50fa7b">desc&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;A simple, performance-first, SEO-friendly Hugo theme&amp;#34;&lt;/span> &lt;span style="color:#50fa7b">link&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;https://github.com/Ice-Hazymoon/hugo-theme-luna&amp;#34;&lt;/span> &lt;span style="color:#50fa7b">img&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;https://repository-images.githubusercontent.com/486781027/dc31a9ab-66d1-49b8-a225-4f85f2329f2e&amp;#34;&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">link-card&lt;/span> &lt;span style="color:#50fa7b">name&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;hugo-theme-luna&amp;#34;&lt;/span> &lt;span style="color:#50fa7b">desc&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;A simple, performance-first, SEO-friendly Hugo theme&amp;#34;&lt;/span> &lt;span style="color:#50fa7b">link&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">&amp;#34;https://github.com/Ice-Hazymoon/hugo-theme-luna&amp;#34;&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>&lt;a href="https://github.com/Ice-Hazymoon/hugo-theme-luna" target="_blank" rel="noopener noreferrer" class="link-card before:hidden hover:bg-gray-100 hover:dark:bg-darkBg transition ease-in-out cursor-pointer my-4 rounded border dark:border-darkBorder flex justify-between flex-col-reverse md:flex-row w-full">
-&lt;div class=" flex-grow p-4 flex flex-col">
-&lt;div class=" flex-grow">
-&lt;div class=" text-xl font-bold">hugo-theme-luna&lt;/div>&lt;div class=" text-gray-400 dark:text-darkTextPlaceholder line-clamp-2 my-1">A simple, performance-first, SEO-friendly Hugo theme&lt;/div>&lt;/div>&lt;div class=" flex items-center">&lt;img class="link-card-img mr-1 w-3 h-3" src="https://www.google.cn/s2/favicons?domain=github.com" alt="">
-&lt;div class=" text-xs text-gray-400 dark:text-darkTextPlaceholder line-clamp-1">https://github.com/Ice-Hazymoon/hugo-theme-luna&lt;/div>
-&lt;/div>&lt;/div>&lt;img class="link-card-img h-32 bg-white dark:bg-darkBg object-contain" src="https://repository-images.githubusercontent.com/486781027/dc31a9ab-66d1-49b8-a225-4f85f2329f2e" alt="hugo-theme-luna">&lt;/a>
-&lt;a href="https://github.com/Ice-Hazymoon/hugo-theme-luna" target="_blank" rel="noopener noreferrer" class="link-card before:hidden hover:bg-gray-100 hover:dark:bg-darkBg transition ease-in-out cursor-pointer my-4 rounded border dark:border-darkBorder flex justify-between flex-col-reverse md:flex-row w-full">
-&lt;div class=" flex-grow p-4 flex flex-col">
-&lt;div class=" flex-grow">
-&lt;div class=" text-xl font-bold">hugo-theme-luna&lt;/div>&lt;div class=" text-gray-400 dark:text-darkTextPlaceholder line-clamp-2 my-1">A simple, performance-first, SEO-friendly Hugo theme&lt;/div>&lt;/div>&lt;div class=" flex items-center">&lt;img class="link-card-img mr-1 w-3 h-3" src="https://www.google.cn/s2/favicons?domain=github.com" alt="">
-&lt;div class=" text-xs text-gray-400 dark:text-darkTextPlaceholder line-clamp-1">https://github.com/Ice-Hazymoon/hugo-theme-luna&lt;/div>
-&lt;/div>&lt;/div>&lt;/a>
-&lt;h2 class=" group " id="轮播图">轮播图&lt;a class="" href="#%e8%bd%ae%e6%92%ad%e5%9b%be">&lt;i class="eva ml-3 eva-link text-theme transition ease-in-out opacity-0 align-middle group-hover:opacity-100">&lt;/i>&lt;/a>&lt;/h2>&lt;div class="highlight">&lt;div style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">
-&lt;table style="border-spacing:0;padding:0;margin:0;border:0;">&lt;tr>&lt;td style="vertical-align:top;padding:0;margin:0;border:0;">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code>&lt;span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1
-&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
-&lt;td style="vertical-align:top;padding:0;margin:0;border:0;;width:100%">
-&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>{{&amp;lt; &lt;span style="color:#ff79c6">carousel&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">https:&lt;/span>//&lt;span style="color:#50fa7b">unsplash&lt;/span>.&lt;span style="color:#50fa7b">it&lt;/span>/&lt;span style="color:#50fa7b">1920&lt;/span>/&lt;span style="color:#50fa7b">1080&lt;/span>/?&lt;span style="color:#50fa7b">random&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">1&amp;#34;&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">https:&lt;/span>//&lt;span style="color:#50fa7b">unsplash&lt;/span>.&lt;span style="color:#50fa7b">it&lt;/span>/&lt;span style="color:#50fa7b">1920&lt;/span>/&lt;span style="color:#50fa7b">1080&lt;/span>/?&lt;span style="color:#50fa7b">random&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">2&amp;#34;&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">https:&lt;/span>//&lt;span style="color:#50fa7b">unsplash&lt;/span>.&lt;span style="color:#50fa7b">it&lt;/span>/&lt;span style="color:#50fa7b">1920&lt;/span>/&lt;span style="color:#50fa7b">1080&lt;/span>/?&lt;span style="color:#50fa7b">random&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">3&amp;#34;&lt;/span> &amp;#34;&lt;span style="color:#50fa7b">https:&lt;/span>//&lt;span style="color:#50fa7b">unsplash&lt;/span>.&lt;span style="color:#50fa7b">it&lt;/span>/&lt;span style="color:#50fa7b">1920&lt;/span>/&lt;span style="color:#50fa7b">1080&lt;/span>/?&lt;span style="color:#50fa7b">random&lt;/span>&lt;span style="color:#ff79c6">=&lt;/span>&lt;span style="color:#f1fa8c">4&amp;#34;&lt;/span> &amp;gt;}}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
-&lt;/div>
-&lt;/div>
-&lt;div class="carousel">
-&lt;div class='slider-wrapper'>&lt;input id='slide-683142975-0'checked="checked"name='slides' type='radio'>&lt;input id='slide-683142975-1'name='slides' type='radio'>&lt;input id='slide-683142975-2'name='slides' type='radio'>&lt;input id='slide-683142975-3'name='slides' type='radio'>&lt;div class='slider-arrow-nav'>&lt;label class='nav-arrow prev' for='slide-683142975-0'>&lt;/label>&lt;label class='nav-arrow prev' for='slide-683142975-1'>&lt;/label>&lt;label class='nav-arrow prev' for='slide-683142975-2'>&lt;/label>&lt;label class='nav-arrow prev' for='slide-683142975-3'>&lt;/label>&lt;/div>
-&lt;div class='slider-arrow-nav'>&lt;label class='nav-arrow next' for='slide-683142975-0'>&lt;/label>&lt;label class='nav-arrow next' for='slide-683142975-1'>&lt;/label>&lt;label class='nav-arrow next' for='slide-683142975-2'>&lt;/label>&lt;label class='nav-arrow next' for='slide-683142975-3'>&lt;/label>&lt;/div>
-&lt;div class='slider-nav'>&lt;label class='nav-button' for='slide-683142975-0'>&lt;/label>&lt;label class='nav-button' for='slide-683142975-1'>&lt;/label>&lt;label class='nav-button' for='slide-683142975-2'>&lt;/label>&lt;label class='nav-button' for='slide-683142975-3'>&lt;/label>&lt;/div>
-&lt;div class='slider-content'>&lt;div class='slide slide-683142975-0'>
-&lt;img src='https://unsplash.it/1920/1080/?random=1'>
-&lt;img src="https://unsplash.it/1920/1080/?random=1" alt="">
-&lt;/div>&lt;div class='slide slide-683142975-1'>
-&lt;img src='https://unsplash.it/1920/1080/?random=2'>
-&lt;img src="https://unsplash.it/1920/1080/?random=2" alt="">
-&lt;/div>&lt;div class='slide slide-683142975-2'>
-&lt;img src='https://unsplash.it/1920/1080/?random=3'>
-&lt;img src="https://unsplash.it/1920/1080/?random=3" alt="">
-&lt;/div>&lt;div class='slide slide-683142975-3'>
-&lt;img src='https://unsplash.it/1920/1080/?random=4'>
-&lt;img src="https://unsplash.it/1920/1080/?random=4" alt="">
-&lt;/div>&lt;/div>
-&lt;/div>
-&lt;style>#slide-683142975-0:checked ~ .slider-content .slide-683142975-0{
-opacity:1;
-}
-#slide-683142975-0:checked ~ .slider-nav .nav-button[for="slide-683142975-0"]{
-background: rgba(255,255,255,1);
-}
-#slide-683142975-0:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-683142975-0"] + .nav-arrow{
-z-index:4;
-}
-#slide-683142975-0:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-683142975-0"]:last-of-type{
-z-index:2;
-}
-#slide-683142975-0:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-683142975-0"],
-#slide-683142975-0:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-683142975-0"] ~ .nav-arrow.prev{
-z-index:2;
-}#slide-683142975-1:checked ~ .slider-content .slide-683142975-1{
-opacity:1;
-}
-#slide-683142975-1:checked ~ .slider-nav .nav-button[for="slide-683142975-1"]{
-background: rgba(255,255,255,1);
-}
-#slide-683142975-1:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-683142975-1"] + .nav-arrow{
-z-index:4;
-}
-#slide-683142975-1:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-683142975-1"]:last-of-type{
-z-index:2;
-}
-#slide-683142975-1:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-683142975-1"],
-#slide-683142975-1:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-683142975-1"] ~ .nav-arrow.prev{
-z-index:2;
-}#slide-683142975-2:checked ~ .slider-content .slide-683142975-2{
-opacity:1;
-}
-#slide-683142975-2:checked ~ .slider-nav .nav-button[for="slide-683142975-2"]{
-background: rgba(255,255,255,1);
-}
-#slide-683142975-2:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-683142975-2"] + .nav-arrow{
-z-index:4;
-}
-#slide-683142975-2:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-683142975-2"]:last-of-type{
-z-index:2;
-}
-#slide-683142975-2:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-683142975-2"],
-#slide-683142975-2:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-683142975-2"] ~ .nav-arrow.prev{
-z-index:2;
-}#slide-683142975-3:checked ~ .slider-content .slide-683142975-3{
-opacity:1;
-}
-#slide-683142975-3:checked ~ .slider-nav .nav-button[for="slide-683142975-3"]{
-background: rgba(255,255,255,1);
-}
-#slide-683142975-3:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-683142975-3"] + .nav-arrow{
-z-index:4;
-}
-#slide-683142975-3:checked ~ .slider-arrow-nav .nav-arrow.next[for="slide-683142975-3"]:last-of-type{
-z-index:2;
-}
-#slide-683142975-3:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-683142975-3"],
-#slide-683142975-3:checked ~ .slider-arrow-nav .nav-arrow.prev[for="slide-683142975-3"] ~ .nav-arrow.prev{
-z-index:2;
-}&lt;/style>
 &lt;/div></description></item><item><title/><link>https://Bazinga-0411.github.io/2019/02/16/.html/</link><pubDate>Sat, 16 Feb 2019 07:01:32 +0000</pubDate><guid>https://Bazinga-0411.github.io/2019/02/16/.html/</guid><description>&lt;p>Hugo 主题 Luna 已发布，欢迎使用！&lt;/p></description></item></channel></rss>
